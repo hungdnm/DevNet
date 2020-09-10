@@ -1,3 +1,5 @@
 #configure terminal
 #int F0/1\
 #exit
+#router ospf 1
+#aa
